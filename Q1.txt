@@ -1,0 +1,3 @@
+1) o que são pré-definidos...
+R) São palavras reservadas e caracteres reservados pela linguagem C para realizar tarefas pré determinadas. Os três tipos são palavras reservadas, caracteres especíais(exceto o underline) e os modificadores. Os pré definidos foram criados pelos desenvolvedores da linguagem C, já os indentificadores são criados pelos usuários para realizar as mais diversas tarefas
+
